@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\repository_pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\repository_pattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\repositories\\iproductreposotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\repositories\\iproductreposotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\repositories\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\repositories\\productcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\repositories\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\repositories\\iproductcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\domain\\entities\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|c:\\users\\shardulc\\desktop\\new folder (3)\\repository_pattern\\repository_pattern\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343A45-F8CD-43C5-A308-4F34F0A622D1}|Repository_pattern\\Repository_pattern.csproj|solutionrelative:repository_pattern\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repository_pattern\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:02:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Repository_pattern\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:42:58.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Program.cs",
+              "RelativeToolTip": "Repository_pattern\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:48:12.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\appsettings.json",
+              "RelativeDocumentMoniker": "Repository_pattern\\appsettings.json",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\appsettings.json",
+              "RelativeToolTip": "Repository_pattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T11:08:32.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository_pattern.csproj",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repository_pattern.csproj",
+              "RelativeDocumentMoniker": "Repository_pattern\\Repository_pattern.csproj",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repository_pattern.csproj",
+              "RelativeToolTip": "Repository_pattern\\Repository_pattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T09:42:22.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Repository_pattern\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Repository_pattern\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T12:50:17.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Repository_pattern\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:00:36.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductReposotry.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repositories\\IProductReposotry.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Repositories\\IProductReposotry.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repositories\\IProductReposotry.cs",
+              "RelativeToolTip": "Repository_pattern\\Repositories\\IProductReposotry.cs",
+              "ViewState": "AgIAAAEAAAAAMTMzMzP7vw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:59:19.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Repository_pattern\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:48:04.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repositories\\ProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Repositories\\ProductCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repositories\\ProductCategoryRepository.cs",
+              "RelativeToolTip": "Repository_pattern\\Repositories\\ProductCategoryRepository.cs",
+              "ViewState": "AgIAAA0AAAAAMDMzMzPjvxUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:05:49.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repositories\\IProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Repositories\\IProductCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Repositories\\IProductCategoryRepository.cs",
+              "RelativeToolTip": "Repository_pattern\\Repositories\\IProductCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:00:06.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Data\\ProductDBContext.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Data\\ProductDBContext.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Data\\ProductDBContext.cs",
+              "RelativeToolTip": "Repository_pattern\\Data\\ProductDBContext.cs",
+              "ViewState": "AgIAAAIAAABgZmZmZmYkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:13:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Domain\\Entities\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Repository_pattern\\Domain\\Entities\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\Repository_pattern\\Repository_pattern\\Domain\\Entities\\ProductCategory.cs",
+              "RelativeToolTip": "Repository_pattern\\Domain\\Entities\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:43:24.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
