@@ -1,5 +1,84 @@
 [
   {
+    "ContainingType": "Repository_pattern.Controllers.ProductCategoryController",
+    "Method": "GetAllCategories",
+    "RelativePath": "api/ProductCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_pattern.Controllers.ProductCategoryController",
+    "Method": "CreateCategory",
+    "RelativePath": "api/ProductCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "ProductCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_pattern.Controllers.ProductCategoryController",
+    "Method": "GetCategory",
+    "RelativePath": "api/ProductCategory/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_pattern.Controllers.ProductCategoryController",
+    "Method": "UpdateCategory",
+    "RelativePath": "api/ProductCategory/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "category",
+        "Type": "ProductCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repository_pattern.Controllers.ProductCategoryController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/ProductCategory/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Repository_pattern.Controllers.ProductsController",
     "Method": "GetAllProducts",
     "RelativePath": "api/Products",
@@ -19,7 +98,7 @@
     "Parameters": [
       {
         "Name": "product",
-        "Type": "Repository_pattern.Domain.Entities.Product",
+        "Type": "Product",
         "IsRequired": true
       }
     ],
@@ -56,7 +135,7 @@
       },
       {
         "Name": "product",
-        "Type": "Repository_pattern.Domain.Entities.Product",
+        "Type": "Product",
         "IsRequired": true
       }
     ],

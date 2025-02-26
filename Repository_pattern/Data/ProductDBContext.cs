@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Repository_pattern.Domain.Entities;
+//using Repository_pattern.Domain.Entities;
 
 namespace Repository_pattern.Data
 {

@@ -1,4 +1,4 @@
-﻿using Repository_pattern.Domain.Entities;
+﻿//using Repository_pattern.Domain.Entities;
 using Repository_pattern.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -34,7 +34,7 @@ namespace Repository_pattern.Repositories
         public async Task<ProductCategory?> Get(int id)
         {
             return await _context.ProductCategories
-                .Include(pc => pc.Products) // Eager loading for related Products
+             //   .Include(pc => pc.) // Eager loading for related Products
                 .FirstOrDefaultAsync(pc => pc.Id == id);
         }
 
